@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lecture 3 Linux terminal</title>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <div id="term_wrap">
+    <div id="term_container" aria-label="Linux terminal"></div>
+    <div class="runtime-tools">
+      <div class="paste-control">
+        <label class="sr-only" for="term_paste">Paste Here</label>
+        <textarea id="term_paste" cols="28" rows="1" autocorrect="off" autocapitalize="off" spellcheck="false" aria-describedby="paste-caption">Paste Here</textarea>
+        <p id="paste-caption"><kbd>⌘V</kbd> (Mac) / <kbd>Ctrl+V</kbd>. Sends directly to Linux.</p>
+      </div>
+      <div class="upload-tools">
+        <label class="upload-control">
+          <span>[ upload files ]</span>
+          <input type="file" id="files" multiple aria-label="Upload files to the Linux guest" onchange="on_update_files(this.files)">
+        </label>
+        <progress id="net_progress" aria-label="Loading guest data"></progress>
+      </div>
+    </div>
+    <p id="copyright">JSLinux / TinyEMU · &copy; 2017–2019 Fabrice Bellard</p>
+  </div>
+  <script src="term.js"></script>
+  <script src="jslinux.js"></script>
+</body>
+</html>

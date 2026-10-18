@@ -1,0 +1,229 @@
+{
+  "format": "cs930-course-site-v1",
+  "entries": [
+    {
+      "path": ".nojekyll",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "index.html",
+      "size": 1718,
+      "sha256": "f95121082bf173ce1d2ea7936c5364ff0a85a01dec49170758a4a757a97d52af"
+    },
+    {
+      "path": "labs",
+      "directory": true
+    },
+    {
+      "path": "labs/lecture-03",
+      "directory": true
+    },
+    {
+      "path": "labs/lecture-03/.nojekyll",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "labs/lecture-03/assets",
+      "directory": true
+    },
+    {
+      "path": "labs/lecture-03/assets/lab-11d34b2236f4.css",
+      "size": 3467,
+      "sha256": "11d34b2236f472a035c4444947752c2802fb8ff1c8b04518194ab32ad79439ca"
+    },
+    {
+      "path": "labs/lecture-03/assets/lab-5c6af9583233.js",
+      "size": 1441,
+      "sha256": "5c6af95832332c719c7796fc10c6aa458bb9419c583ae6e464fa0cd8028c2b8f"
+    },
+    {
+      "path": "labs/lecture-03/index.html",
+      "size": 2158,
+      "sha256": "24db898616ab329ec098f7eaf2b60fb2b33f0035bae0770c4a935e9645a45f24"
+    },
+    {
+      "path": "labs/lecture-03/lab-sheet.pdf",
+      "size": 176287,
+      "sha256": "939c6216b5a870d76e8e9e90c86db443a98edddf55c38208847be27115628393"
+    },
+    {
+      "path": "labs/lecture-03/release-manifest.json",
+      "size": 6142,
+      "sha256": "9d75d51076cc2700a837a18a3b8e7bd71eb157e3fbf9cbdcdc20a359fea83860"
+    },
+    {
+      "path": "labs/lecture-03/runtime",
+      "directory": true
+    },
+    {
+      "path": "labs/lecture-03/runtime/bbl64.bin",
+      "size": 53786,
+      "sha256": "293610cea7af6c75e4a8337e16c0d62834becbf31ffd9cca35e0c211602349db"
+    },
+    {
+      "path": "labs/lecture-03/runtime/images",
+      "directory": true
+    },
+    {
+      "path": "labs/lecture-03/runtime/images/bg-scrollbar-thumb-y.png",
+      "size": 2888,
+      "sha256": "956c6b40b71aa00c1b774d5c635049bd646c50318cb2e0b17e2dde048f70251f"
+    },
+    {
+      "path": "labs/lecture-03/runtime/images/bg-scrollbar-track-y.png",
+      "size": 960,
+      "sha256": "66c3b45c0823a81516daf9312789d6dfec9b4898662bab452453a62fe0c599d2"
+    },
+    {
+      "path": "labs/lecture-03/runtime/images/bg-scrollbar-trackend-y.png",
+      "size": 211,
+      "sha256": "e025221ff4666fabe015d0c4dd5a8f49e3da893d39f67c5aa89fe76062ffd384"
+    },
+    {
+      "path": "labs/lecture-03/runtime/images/upload-icon.png",
+      "size": 530,
+      "sha256": "c0ba838e02bca7b7884fa4b9ca0a0f4096fd6cb87727d6a985a962e7aad9cef3"
+    },
+    {
+      "path": "labs/lecture-03/runtime/index.html",
+      "size": 1282,
+      "sha256": "516b95c06420461c65ec3fe815678ca08268aacb142016ac45b3e805dd69856d"
+    },
+    {
+      "path": "labs/lecture-03/runtime/jslinux.js",
+      "size": 19207,
+      "sha256": "d5225911862e8da26c064de0de8481b5f2cb5cc0a7ad1c04edcd7e090fbd8e5f"
+    },
+    {
+      "path": "labs/lecture-03/runtime/kernel-riscv64.bin",
+      "size": 3979556,
+      "sha256": "65ca70a6560a730396ab61488d1cf46089b32da5af7e535e03c180cd5bcc8e75"
+    },
+    {
+      "path": "labs/lecture-03/runtime/riscvemu64-wasm.js",
+      "size": 65788,
+      "sha256": "1637ea50d0a5b4cb138eac6a02d8654c696e5315b7d5c1c78b63e8e2b29fd601"
+    },
+    {
+      "path": "labs/lecture-03/runtime/riscvemu64-wasm.wasm",
+      "size": 220054,
+      "sha256": "4e4d5d60713bab852a1e95b673fbb26d805010b8acbffce9a860e4f3fb88196b"
+    },
+    {
+      "path": "labs/lecture-03/runtime/riscvemu64.js",
+      "size": 494332,
+      "sha256": "7743a3ae61a02f8377efe00475062f238febbf1b26328af182584ab2ca5819b4"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64",
+      "directory": true
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64.cfg",
+      "size": 222,
+      "sha256": "dff5c33404eccc338f7b122122933cda350d9f4ee106919f86c672b249c2153c"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk.txt",
+      "size": 35,
+      "sha256": "2a26c08a306ce45b0d3d46de580e2bd705a5da447fde0334cf8c25d2606f57d7"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000000.bin",
+      "size": 262144,
+      "sha256": "548aa4f35f14aac189829190867ba7fed10160ea624c5c43af9987d9406e2ca1"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000001.bin",
+      "size": 262144,
+      "sha256": "29c1eaa8a7fa2323b7b6c1f8f4be1cd55cb47af7328826b4d00ed80b15460c22"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000002.bin",
+      "size": 262144,
+      "sha256": "6017c3930180b69cc7141de1387f65d33d47abcd0039dd0bdd1c74272beb1192"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000003.bin",
+      "size": 262144,
+      "sha256": "b6d9c3d1d0299e95d5b93c3b366777c1c46382a762c28b82dfe9704a86ad3ba6"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000004.bin",
+      "size": 262144,
+      "sha256": "3c9072ecbb48e34b06e4bd91bbb859c645ffc5b1f5295cff43bdb665023f7599"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000005.bin",
+      "size": 262144,
+      "sha256": "e26b9606b188eb86c811285cf1a42c285baed745003850bf33ce2cdcfe0bdbd5"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000006.bin",
+      "size": 262144,
+      "sha256": "d7b70c2ea3646170d45c40c57d10493c2e18ce4ab0c7c17569cb0837a8cdaabc"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000007.bin",
+      "size": 262144,
+      "sha256": "4587382fa2fad391bf08125027d66c3478b66e63286846741de215e0564f9c3f"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000008.bin",
+      "size": 262144,
+      "sha256": "5a267e7aceb6bd257cdcc796087affb9bc8d5dc804cc400b824d8c77f7ac3555"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000009.bin",
+      "size": 262144,
+      "sha256": "170f263ba807be125a24cf0da6af9aeaa20e59a810f3a268a1687b64cc65ad95"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000010.bin",
+      "size": 262144,
+      "sha256": "c8107f0b62d705280775761351fd4eee95a2e874cc02a2730572bf38c66d6309"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000011.bin",
+      "size": 262144,
+      "sha256": "9a16b5ba1e6b48cd3ff35dcdcdde94a811c73f3f3b4270276c939b27f5a1c02f"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000012.bin",
+      "size": 262144,
+      "sha256": "06b38dd398ddf538fe7e8c60252c3df61c003dd52c36f899e904b898700e9a89"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000013.bin",
+      "size": 262144,
+      "sha256": "29ee4af2ad37e1b3b42e1fb2adf90291ad4247b0bc727c812013bd9c5cab1eb0"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000014.bin",
+      "size": 262144,
+      "sha256": "5e6fed9122e4547b20884f4d98ff3d8a6d67bede3d5c14f54159e242c3eec1b7"
+    },
+    {
+      "path": "labs/lecture-03/runtime/root-riscv64/blk000000015.bin",
+      "size": 262144,
+      "sha256": "b5307cc4fc6742a0d61b13fc4dd02ce0274210e886d04df94c4fff3e5d62e141"
+    },
+    {
+      "path": "labs/lecture-03/runtime/style.css",
+      "size": 4650,
+      "sha256": "fd9a3419da287e9f4cad9364f673add83efa8c59985b514d63f87d6ec616a88e"
+    },
+    {
+      "path": "labs/lecture-03/runtime/term.js",
+      "size": 37638,
+      "sha256": "c67daf9871d1ff1fadf83231f07d234d35b11bf5fd1042596e9cfaecd5363d65"
+    },
+    {
+      "path": "labs/lecture-03/third-party-notices.txt",
+      "size": 1465,
+      "sha256": "a35f796365e3294cd396e50eb63efcc5b35cf2d962e1eeeca13602d808a948af"
+    }
+  ]
+}

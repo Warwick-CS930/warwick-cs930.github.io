@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0f0c">
+  <title>CS930 / Lecture 03 lab</title>
+  <link rel="stylesheet" href="assets/lab-11d34b2236f4.css">
+</head>
+<body>
+  <a class="skip-link" href="#terminal">Skip to terminal</a>
+  <div class="page-shell">
+    <header class="site-header">
+      <p class="course-id"><strong>CS930</strong> <span aria-hidden="true">/</span> lecture 03</p>
+      <nav aria-label="Lab materials">
+        <a href="lab-sheet.pdf" target="_blank" rel="noopener">lab-sheet.pdf</a>
+      </nav>
+    </header>
+
+    <main>
+      <div class="intro">
+        <h1>Operating system security</h1>
+      </div>
+
+      <section id="terminal" class="terminal-panel" aria-labelledby="terminal-heading" tabindex="-1">
+        <div class="terminal-toolbar">
+          <h2 id="terminal-heading">Linux terminal</h2>
+          <div class="terminal-actions">
+            <button id="focus-view" type="button" aria-pressed="false" aria-controls="terminal"><span id="focus-label">Focus view</span></button>
+            <button id="restart-lab" type="button">Restart lab</button>
+          </div>
+        </div>
+        <noscript><p class="notice">Enable JavaScript to run Linux.</p></noscript>
+        <div class="terminal-viewport" role="region" aria-label="Linux terminal; scroll sideways on a narrow screen" tabindex="0">
+          <iframe id="lab-runtime" src="runtime/index.html?cpu=riscv64&amp;url=root-riscv64.cfg&amp;net_url=" title="Lecture 3 Linux guest terminal" height="780" allow="clipboard-read; clipboard-write"></iframe>
+        </div>
+        <div class="terminal-footer">
+          <span>Click the terminal to type.</span>
+          <span><kbd>Shift+Esc</kbd> returns to page controls</span>
+        </div>
+        <p id="runtime-status" class="sr-only" role="status" aria-live="polite"></p>
+      </section>
+
+      <p class="session-note">Restarting, reloading, or closing this page discards guest changes.</p>
+    </main>
+  </div>
+
+  <script src="assets/lab-5c6af9583233.js"></script>
+</body>
+</html>
