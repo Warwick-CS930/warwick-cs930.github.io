@@ -8,12 +8,19 @@
 </head>
 <body>
   <div id="term_wrap">
-    <div id="term_container" aria-label="Linux terminal"></div>
+    <div id="term_container" aria-label="Linux terminal" tabindex="0"></div>
+    <textarea id="term_paste" hidden aria-hidden="true" tabindex="-1"></textarea>
     <div class="runtime-tools">
       <div class="paste-control">
-        <label class="sr-only" for="term_paste">Paste Here</label>
-        <textarea id="term_paste" cols="28" rows="1" autocorrect="off" autocapitalize="off" spellcheck="false" aria-describedby="paste-caption">Paste Here</textarea>
-        <p id="paste-caption"><kbd>⌘V</kbd> (Mac) / <kbd>Ctrl+V</kbd>. Sends directly to Linux.</p>
+        <label for="paste-input">Paste commands</label>
+        <textarea id="paste-input" rows="3" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Paste or type commands here…" aria-describedby="paste-caption paste-status"></textarea>
+        <p id="paste-caption">Review before sending. Line breaks may run commands; no extra Enter is added.</p>
+        <div class="paste-actions">
+          <button id="paste-send" type="button" disabled>Send to terminal</button>
+          <button id="paste-clear" type="button" disabled>Clear</button>
+          <span class="paste-shortcut"><kbd>⌘Enter</kbd> / <kbd>Ctrl+Enter</kbd> to send</span>
+        </div>
+        <p id="paste-status" role="status" aria-live="polite"></p>
       </div>
       <div class="upload-tools">
         <label class="upload-control">
@@ -27,5 +34,6 @@
   </div>
   <script src="term.js"></script>
   <script src="jslinux.js"></script>
+  <script src="runtime-controller.js"></script>
 </body>
 </html>

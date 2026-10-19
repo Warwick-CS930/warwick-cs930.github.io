@@ -34,24 +34,24 @@
       "sha256": "11d34b2236f472a035c4444947752c2802fb8ff1c8b04518194ab32ad79439ca"
     },
     {
-      "path": "labs/lecture-03/assets/lab-5c6af9583233.js",
-      "size": 1441,
-      "sha256": "5c6af95832332c719c7796fc10c6aa458bb9419c583ae6e464fa0cd8028c2b8f"
+      "path": "labs/lecture-03/assets/lab-88aa4dd5ffe0.js",
+      "size": 1348,
+      "sha256": "88aa4dd5ffe0d8d58961096eb87ff133b50274753d72a81c8ac80abf75d90b26"
     },
     {
       "path": "labs/lecture-03/index.html",
       "size": 2158,
-      "sha256": "24db898616ab329ec098f7eaf2b60fb2b33f0035bae0770c4a935e9645a45f24"
+      "sha256": "b153370ad414ee5d0ec23fccc4b7dad3ad2dd2c31adc1da622656640e1d7224e"
     },
     {
       "path": "labs/lecture-03/lab-sheet.pdf",
-      "size": 176287,
-      "sha256": "939c6216b5a870d76e8e9e90c86db443a98edddf55c38208847be27115628393"
+      "size": 176293,
+      "sha256": "a9914140095fef2d2ecacd445f9b2d39782e6a1dbd26320f013603480547b255"
     },
     {
       "path": "labs/lecture-03/release-manifest.json",
-      "size": 6142,
-      "sha256": "9d75d51076cc2700a837a18a3b8e7bd71eb157e3fbf9cbdcdc20a359fea83860"
+      "size": 6305,
+      "sha256": "c329f0edd19116d637bd6b05629860ece4c354583ecc7cbe35b4ff8209bd7c6a"
     },
     {
       "path": "labs/lecture-03/runtime",
@@ -88,8 +88,8 @@
     },
     {
       "path": "labs/lecture-03/runtime/index.html",
-      "size": 1282,
-      "sha256": "516b95c06420461c65ec3fe815678ca08268aacb142016ac45b3e805dd69856d"
+      "size": 1835,
+      "sha256": "57b3845cdb609ff4eb56d78c02f59a66bb29252cf62922601eb6e3451069255e"
     },
     {
       "path": "labs/lecture-03/runtime/jslinux.js",
@@ -133,7 +133,7 @@
     {
       "path": "labs/lecture-03/runtime/root-riscv64/blk000000000.bin",
       "size": 262144,
-      "sha256": "548aa4f35f14aac189829190867ba7fed10160ea624c5c43af9987d9406e2ca1"
+      "sha256": "2d086f8509eb22fffd8b49c439a2d06c1f66d8398e0841decae09031673c9ee5"
     },
     {
       "path": "labs/lecture-03/runtime/root-riscv64/blk000000001.bin",
@@ -143,7 +143,7 @@
     {
       "path": "labs/lecture-03/runtime/root-riscv64/blk000000002.bin",
       "size": 262144,
-      "sha256": "6017c3930180b69cc7141de1387f65d33d47abcd0039dd0bdd1c74272beb1192"
+      "sha256": "60be53cb5a5157d5adb571f0ad579acc5944ef9486381367a7814c7ad86fd4f4"
     },
     {
       "path": "labs/lecture-03/runtime/root-riscv64/blk000000003.bin",
@@ -168,7 +168,7 @@
     {
       "path": "labs/lecture-03/runtime/root-riscv64/blk000000007.bin",
       "size": 262144,
-      "sha256": "4587382fa2fad391bf08125027d66c3478b66e63286846741de215e0564f9c3f"
+      "sha256": "d7239b44525146a1946d3d83692035dd8cf28594ea4ff3dcc8528ab076b001e5"
     },
     {
       "path": "labs/lecture-03/runtime/root-riscv64/blk000000008.bin",
@@ -193,7 +193,7 @@
     {
       "path": "labs/lecture-03/runtime/root-riscv64/blk000000012.bin",
       "size": 262144,
-      "sha256": "06b38dd398ddf538fe7e8c60252c3df61c003dd52c36f899e904b898700e9a89"
+      "sha256": "82eb0baace47472f8ecc2d10487d9f9ac4c59405c9b63dadad0287f1ff0cfdd2"
     },
     {
       "path": "labs/lecture-03/runtime/root-riscv64/blk000000013.bin",
@@ -211,9 +211,14 @@
       "sha256": "b5307cc4fc6742a0d61b13fc4dd02ce0274210e886d04df94c4fff3e5d62e141"
     },
     {
+      "path": "labs/lecture-03/runtime/runtime-controller.js",
+      "size": 1420,
+      "sha256": "e386bf049f78f5bd9e74cf78de5ec487f7d4b9480ff3f33a442dfe71a86af227"
+    },
+    {
       "path": "labs/lecture-03/runtime/style.css",
-      "size": 4650,
-      "sha256": "fd9a3419da287e9f4cad9364f673add83efa8c59985b514d63f87d6ec616a88e"
+      "size": 5428,
+      "sha256": "8f22dbadd012c5d762f6d11db991def7f4164a927fd94318da4800bf98e9132f"
     },
     {
       "path": "labs/lecture-03/runtime/term.js",
