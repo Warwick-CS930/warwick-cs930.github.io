@@ -45,13 +45,13 @@
     },
     {
       "path": "labs/lecture-03/lab-sheet.pdf",
-      "size": 176293,
-      "sha256": "a9914140095fef2d2ecacd445f9b2d39782e6a1dbd26320f013603480547b255"
+      "size": 176321,
+      "sha256": "9a77b9dcebded6c113efbfcd6dd030c7e14e1024f77841c29dedba5c785db905"
     },
     {
       "path": "labs/lecture-03/release-manifest.json",
       "size": 6305,
-      "sha256": "c329f0edd19116d637bd6b05629860ece4c354583ecc7cbe35b4ff8209bd7c6a"
+      "sha256": "412459f24c75a420d9db83fa935e94c5d82ae48b73c9d7c90970160559b2000f"
     },
     {
       "path": "labs/lecture-03/runtime",
