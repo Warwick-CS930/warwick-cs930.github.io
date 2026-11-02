@@ -23,8 +23,8 @@
     },
     {
       "path": "lab-sheet.pdf",
-      "size": 170404,
-      "sha256": "dc46233c69fd6c5ec42e9d583124eb7ff9eefcc34f6bd307297219637812a172"
+      "size": 170878,
+      "sha256": "f1db32caf78655bb56bcd57e81dafa51daf9e35b097a85da921bd594b868be8f"
     },
     {
       "path": "runtime/bbl64.bin",
@@ -94,7 +94,7 @@
     {
       "path": "runtime/root-riscv64/blk000000000.bin",
       "size": 262144,
-      "sha256": "4b0c11008ae13a40fd11ba727506a68c41a707874e91db1b842579524589b629"
+      "sha256": "54864060b33a451b92adb58c4518f5d404a6d1c96b70afa746f82df65db81985"
     },
     {
       "path": "runtime/root-riscv64/blk000000001.bin",
